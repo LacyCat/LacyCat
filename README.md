@@ -1,7 +1,7 @@
 # LacyCat
 ## 
  Hello guys!
-![Static Badge](https://img.shields.io/badge/bulid-profile-blue?style=flat-square&logo=discord&logoColor=blue&label=My%20discord&labelColor=white&color=hex&link=https%3A%2F%2Fdiscordapp.com%2Fusers%2F888667076795961414)
+![Static Badge](https://img.shields.io/badge/bulid-profile-red?style=plastic&logo=discord&logoColor=blue&label=Mydiscord&labelColor=white&link=https%3A%2F%2Fdiscordapp.com%2Fusers%2F888667076795961414)
 
 
 ## Tech
