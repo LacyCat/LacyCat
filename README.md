@@ -14,7 +14,7 @@ LacyCat uses a number of open source projects to work properly:
 
 ## Installation
 
-LacyCat often use [Microsoft Visual Studio code for python](https://code.visualstudio.com/docs/languages/python)
+LacyCat often use [Microsoft Visual Studio code](https://code.visualstudio.com/Download)
 I'll make my own discord bot
 
 
