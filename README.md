@@ -1,16 +1,20 @@
-### Hi there 👋
+# LacyCat
+## 
+ Hello guys!
+![Static Badge](https://img.shields.io/badge/bulid-profile-blue?style=flat-square&logo=discord&logoColor=blue&label=My%20discord&labelColor=white&color=hex&link=https%3A%2F%2Fdiscordapp.com%2Fusers%2F888667076795961414)
 
-<!--
-**LacyCat/LacyCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+LacyCat uses a number of open source projects to work properly:
+
+ ![Static Badge](https://img.shields.io/badge/bulid-for%20Python-yellow?style=flat-square&logo=Visual%20studio%20code&label=%20Visual%20studio%20code&labelColor=blue&https%3A%2F%2Fcode.visualstudio.com%2FDocs%2Flanguages%2FPython)
+![Static Badge](https://img.shields.io/badge/bulid-for%20Javascript-red?style=flat-square&logo=javascript&logoColor=red&label=%20Visual%20studio%20code&labelColor=bluelink=https%3A%2F%2Fcode.visualstudio.com%2FDocs%2Flanguages%2Fjavascript)
+
+
+## Installation
+
+LacyCat often use [Microsoft Visual Studio code for python](https://code.visualstudio.com/docs/languages/python)
+I'll make my own discord bot
+
+
